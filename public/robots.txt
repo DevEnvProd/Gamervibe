@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/auth/
+
+Sitemap: https://gamervibe.website/sitemap.xml

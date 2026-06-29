@@ -1,0 +1,6 @@
+{
+  "name": "GamerVibe",
+  "description": "Your ultimate hub for gaming news, esports reviews, hardware guides, and premier online casino insights promoting Winbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
